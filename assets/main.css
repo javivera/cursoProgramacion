@@ -53,7 +53,8 @@ section, summary, time, mark, audio, video {
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-  display: block; }
+  display: block;
+  }
 
 body {
   line-height: 1; }
@@ -2455,8 +2456,9 @@ body {
     font-weight: 600;
     height: inherit;
     line-height: inherit;
-    padding: 0 1.25rem;
-    text-decoration: none; }
+    padding-left: 6px;
+    text-decoration: none;
+    }
   #header > nav > a {
     color: inherit;
     display: inline-block;
